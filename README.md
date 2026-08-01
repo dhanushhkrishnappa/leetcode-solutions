@@ -1,48 +1,15 @@
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=LeetCode%20Journey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-# 👨‍💻 Dhanush K
-
-### Solving DSA • One Problem at a Time 🚀
+# 🏅 LeetCode Profile
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanushkrishnappa&label=Repository%20Views&color=0e75b6&style=flat-square" />
+  <a href="https://leetcode.com/u/dhanushkrishnappa/">
+    <img src="https://img.shields.io/badge/Visit%20My-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://leetcard.jacoblin.cool/dhanushkrishnappa?theme=dark&font=Nunito&ext=contest" />
-
-</div>
-
----
-
-# ⚡ Tech Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
-
-</p>
-
----
-
-# 📚 About
-
-This repository automatically syncs my accepted **LeetCode** submissions using **GitHub Actions**.
-
-- 🔄 Auto Sync
-- ☕ Java Solutions
-- 🧠 Data Structures & Algorithms
-- 🚀 Updated automatically after accepted submissions
-
----
-
-# 📈 GitHub Repository
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushhkrishnappa&repo=leetcode-solutions&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://leetcard.jacoblin.cool/dhanushkrishnappa?theme=dark&font=Nunito&ext=contest" />
 </p>
 
 ---
@@ -64,11 +31,25 @@ This repository automatically syncs my accepted **LeetCode** submissions using *
 
 ---
 
-# 🛠 Languages
+# 💻 Languages & Tools
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushhkrishnappa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
+
+</p>
+
+---
+
+# ⚙️ Automation
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Auto%20Sync-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </p>
 
@@ -76,9 +57,9 @@ This repository automatically syncs my accepted **LeetCode** submissions using *
 
 <div align="center">
 
-### ⭐ Consistency Beats Intensity ⭐
+### ⭐ Consistency > Motivation ⭐
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Solve+%E2%89%A51+Problem+Every+Day.;Keep+Learning.;Keep+Building.;Keep+Growing." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=One+Problem+Every+Day.;Never+Skip+Practice.;Keep+Improving.;Stay+Consistent." />
 
 </div>
 
