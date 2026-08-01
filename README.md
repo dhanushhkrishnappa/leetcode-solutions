@@ -2,7 +2,8 @@
 
 # 🚀 LeetCode Solutions
 
-<img src="https://leetcard.jacoblin.cool/<div align="center">
+<img src="https://leetcard.jacoblin.cool/>
+<div align="center">
 
 # 🚀 LeetCode Solutions
 
