@@ -57,16 +57,7 @@
 
 <div align="center">
 
-### ⭐ Consistency > Motivation ⭐
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=One+Problem+Every+Day.;Never+Skip+Practice.;Keep+Improving.;Stay+Consistent." />
-
-</div>
-
----
-
-<div align="center">
-
-Made with ❤️ by **Dhanush K**
 
 </div>
